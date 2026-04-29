@@ -8,7 +8,7 @@ const CategoryBar = ({ genres, onSelectGenre, onReset, selectedGenre }) => {
         className={`category-btn ${selectedGenre === '' ? 'active' : ''}`}
         onClick={onReset}
       >
-        Todas
+        All
       </button>
       
       <div className="category-scroll-wrapper">

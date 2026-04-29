@@ -64,7 +64,6 @@ const AnimeList = () => {
 
   return (
     <div className="main-content">
-      <h1 className="title">Encuentra informacion sobre diferentes tipos de animes</h1>
 
       <CategoryBar
         genres={genres}
