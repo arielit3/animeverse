@@ -1,20 +1,20 @@
 .header {
-    background-color: #e5dcc5; /* Fondo perla */
-    border-radius: 10px; /* Bordes redondeados elegantes */
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombra suave */
-    margin: 20px auto; /* Espacio alrededor del header */
-    width: 70%; /* Ajusta el ancho para que se vea mejor en pantallas grandes */
-    max-width: 500px; /* Limita el tamaño máximo */
-    height: auto; /* Permite ajustar el tamaño según el contenido */
+    background-color: #e5dcc5;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 8px auto;
+    width: 70%;
+    max-width: 500px;
+    height: auto;
     display: flex;
-    justify-content: center; /* Centra el contenido horizontalmente */
-    align-items: center; /* Centra el contenido verticalmente */
-    padding: 0; /* Elimina espacios internos */
+    justify-content: center;
+    align-items: center;
+    padding: 0;
   }
   
   .logo {
     width: 100%;
-    height: auto; /* Mantiene proporciones del logo */
-    border-radius: 10px; /* Redondea las esquinas del logo */
-    object-fit: contain; /* Ajusta la imagen dentro del header */
+    height: auto;
+    border-radius: 10px;
+    object-fit: contain;
   }
